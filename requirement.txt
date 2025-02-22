@@ -1,0 +1,9 @@
+whisper
+pydub
+pysqlite3
+chromadb
+google-generativeai
+torch
+torchaudio
+numpy
+scipy
